@@ -36,5 +36,5 @@ This repository display my journey in analyzing diverse datasets from multidisci
 
 Feel free to explore the projects and dashboards above. I’m always looking to collaborate on data-driven projects, so don’t hesitate to [reach out](mailto:harishmuh@gmail.com) if you’d like to work together!  
 
-- 
+---
 
