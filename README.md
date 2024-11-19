@@ -1,16 +1,40 @@
-# Data Analyst Projects
-This repository displays my journey in analysing various datasets from multidisciplinary fields (from marketing and customer analytics to public health), generating insights and developing actionable recommendations for (business) decision making.
+# 🛠️ Data Analyst Projects  
 
-## 📊 Customer centric and Marketing Analyst 
+This repository display my journey in analyzing diverse datasets from multidisciplinary fields, including marketing, customer analytics, and public health. Through these projects, I aim to generate actionable insights and recommendations to support data-driven decision-making in various industries.  
 
-- 🏡 [Customer Analytics of an Indonesian Architectural & Construction Enterprise, RancangBangun123](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123): Conducted funnel analysis of Customer Relation Management (CRM) historical data, tracking lead performances, identifying characteristics of successful leads and reasons for lost opportunities.
+---
 
+## 📊 Customer-Centric and Marketing Analytics  
 
-- 🚗 [Travel Insurance Claim Prediction - Binary Classification](https://github.com/harishmuh/Travel-Insurance-CustomerClaim-Prediction-using-Machine-Learning): Created a predictive model to identify customers likely to claim insurance from a dataset of 44,000 records.
-- 🛒 [Customer Segmentation of Online Retail](https://github.com/harishmuh/CustomerSegmentation_OnlineRetail_RFM_KMeans): Utilized RFM quantile analysis and K-means clustering to segment over 500,000 transactions from a UK-based online retailer.
+- 🏗️ **[Customer Analytics for RancangBangun123](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123)**  
+  Performed funnel analysis on CRM historical data for an architectural and construction enterprise, tracking lead performance, identifying successful lead characteristics, and uncovering reasons for lost opportunities.  
+
+- 🏘️ **[Airbnb Bangkok Listing Analytics](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics)**  
+  Analyzed over 15,000 Airbnb listings in Bangkok, providing strategic recommendations for new hosts based on neighborhood trends, room types, pricing strategies, and amenities.  
+
+- 🛍️ **[Superstore Retail Analytics](https://github.com/harishmuh/superstore-retail-analytics)**  
+  Explored retail data to track sales and profit trends, optimize shipping modes, target market segments, refine product categories, and generate geographical insights.  
+
+---
+
+## 🏥 Public Health Analytics  
+
+- 🌍 **[Global Mortality Cause Analysis - Indonesia](https://github.com/harishmuh/Global_Mortality_Indonesia)**  
+  Analyzed 30 years of global mortality data, highlighting disease trends in Indonesia compared to global patterns. Insights aim to inform government policy and decision-making in the healthcare and pharmaceutical industries.  
+
+---
+
+## 📊 Data Visualization Dashboards  
+
+- 🏘️ **[Airbnb Bangkok Dashboard (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes)**  
+- 🛍️ **[Retail Superstore Dashboard (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/DashboardSuperstore_17113433910810/Summary)**  
+- 🛍️ **[Retail Superstore Dashboard (Google Looker Studio)](https://lookerstudio.google.com/u/0/reporting/b1205386-0781-460b-894d-02dfd73aa215/page/p_oxpv2am4bd?s=lypphXB5H54)**  
+
+---
+
+## 🚀 Get in Touch!  
+
+Feel free to explore the projects and dashboards above. I’m always looking to collaborate on data-driven projects, so don’t hesitate to [reach out](mailto:harishmuh@gmail.com) if you’d like to work together!  
 
 - 
-generating insights.
 
-exploring datasets and generating insights for   
-researching insights and developing actionable recommendations in multidisciplinary fields, from customer analytics to public health sectors.
