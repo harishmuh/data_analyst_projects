@@ -1,6 +1,6 @@
 # 📈 Data Analyst Projects  
 
-This repository display my journey in analyzing diverse datasets from multidisciplinary fields, including marketing, customer analytics, and public health. Through these projects, I aim to generate actionable insights and recommendations to support data-driven decision-making in various industries.  
+This repository displays my journey in analyzing diverse datasets from multidisciplinary fields, including marketing, customer analytics, and public health. Through these projects, I aim to generate actionable insights and recommendations to support data-driven decision-making in various industries.  
 
 ---
 
