@@ -30,7 +30,7 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 - ⚽ **[Worldcup 1930-2014 - Football Analytics (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/WorldCupStats1930-2014_17109108704730/DashboardSummary)**
 - 🌍🌫️ **[GLobal CO2 Emission (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/GlobalCO2Emissionfrom2000to2011-LinkingData/Dashboard1)**
 - 🛍️ **[Superstore - Retail Analytics (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/DashboardSuperstore_17113433910810/Summary)**  
-- 🛍️ **[Superstore - Retail Analytics (Google Looker Studio)](https://lookerstudio.google.com/u/0/reporting/b1205386-0781-460b-894d-02dfd73aa215/page/p_oxpv2am4bd?s=lypphXB5H54)**
+- 🛍️ **[Superstore - Retail Analytics](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Dashboard_Superstore_Harish_Muhammad.pdf) | [(Google Looker Studio)](https://lookerstudio.google.com/u/0/reporting/b1205386-0781-460b-894d-02dfd73aa215/page/p_oxpv2am4bd?s=lypphXB5H54)**
 - 🌈😊 **[Happiness Index Score Analytics - EU & UK (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/CorrelationofHappinessScorewithNationsConditions/Dashboard2)**   
 
 ---
@@ -40,4 +40,3 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 Feel free to explore the projects and dashboards above. I’m always looking to collaborate on data-driven projects, so don’t hesitate to [reach out](mailto:harishmuh@gmail.com) if you’d like to work together!  
 
 ---
-
