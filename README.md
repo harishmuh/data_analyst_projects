@@ -4,22 +4,30 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 
 ---
 
-## 📊 Customer-Centric and Marketing Analytics  
+## 📊 Client/Customer-Centric and Marketing Analytics  
 
 - 🏗️ **[Customer Analytics for RancangBangun123](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123)**  
+
   Performed funnel analysis on CRM historical data for an architectural and construction enterprise, tracking lead performance, identifying successful lead characteristics, and uncovering reasons for lost opportunities.  
 
 - 🏘️ **[Airbnb Bangkok Listing Analytics](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics)**  
+
   Analyzed over 15,000 Airbnb listings in Bangkok, providing strategic recommendations for new hosts based on neighborhood trends, room types, pricing strategies, and amenities.  
 
 - 🛍️ **[Superstore Retail Analytics](https://github.com/harishmuh/superstore-retail-analytics)**  
+
   Explored retail data to track sales and profit trends, optimize shipping modes, target market segments, refine product categories, and generate geographical insights.  
+
+- 👥 **[Human Resource Analytics](https://github.com/harishmuh/HumanResource_Analytics)**
+  
+  Conducted analysis to identify factors that may contribute to the attrition status of employees (active or leaving) in a life science based company.
 
 ---
 
 ## 🏥 Public Health Analytics  
 
-- 🌍 **[Global Mortality Cause Analysis - Indonesia](https://github.com/harishmuh/Global_Mortality_Indonesia)**  
+- 🌍 **[Global Mortality Cause Analysis - Indonesia](https://github.com/harishmuh/Global_Mortality_Indonesia)**
+
   Analyzed 30 years of global mortality data, highlighting disease trends in Indonesia compared to global patterns. Insights aim to inform government policy and decision-making in the healthcare and pharmaceutical industries.  
 
 ---
