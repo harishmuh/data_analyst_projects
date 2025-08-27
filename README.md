@@ -34,6 +34,7 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 
 ## 📊 Data Visualization/Dashboards  
 
+- 🧬 **[Indonesia's COVID-19 Cases - Updated to September 2022 (Looker studio)](https://lookerstudio.google.com/reporting/41a948e6-0148-4a89-b1b6-b14dab5ab68a)**
 - 🏘️ **[Airbnb - Listing Analtics, Bangkok (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes)**
 - 🛍️ **[Warmindo - Small stall that sells instant noodles (Indomie) with various topings](https://lookerstudio.google.com/s/rjD3-kwXqSY)** 
 - ⚽ **[Worldcup 1930-2014 - Football Analytics (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/WorldCupStats1930-2014_17109108704730/DashboardSummary)**
