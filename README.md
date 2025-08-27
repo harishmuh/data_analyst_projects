@@ -35,10 +35,11 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 ## 📊 Data Visualization/Dashboards  
 
 - 🏘️ **[Airbnb - Listing Analtics, Bangkok (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes)**
+- 🛍️ **[Warmindo - Small stall that sells instant noodles (Indomie) with various topings](https://lookerstudio.google.com/s/rjD3-kwXqSY)** 
 - ⚽ **[Worldcup 1930-2014 - Football Analytics (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/WorldCupStats1930-2014_17109108704730/DashboardSummary)**
 - 🌍🌫️ **[GLobal CO2 Emission (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/GlobalCO2Emissionfrom2000to2011-LinkingData/Dashboard1)**
 - 🛍️ **[Superstore - Retail Analytics (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/DashboardSuperstore_17113433910810/Summary)**  
-- 🛍️ **[Superstore - Retail Analytics](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Dashboard_Superstore_Harish_Muhammad.pdf) | [(Google Looker Studio)](https://lookerstudio.google.com/u/0/reporting/b1205386-0781-460b-894d-02dfd73aa215/page/p_oxpv2am4bd?s=lypphXB5H54)**
+- 🛍️ **[Superstore - Retail Analytics](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Dashboard_Superstore_Harish_Muhammad.pdf) | [(Looker Studio)](https://lookerstudio.google.com/u/0/reporting/b1205386-0781-460b-894d-02dfd73aa215/page/p_oxpv2am4bd?s=lypphXB5H54)**
 - 🌈😊 **[Happiness Index Score Analytics - EU & UK (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/CorrelationofHappinessScorewithNationsConditions/Dashboard2)**   
 
 ---
