@@ -32,7 +32,7 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 
 ---
 
-## 📊 Data Visualization/Dashboards  
+## 📊 [Data Visualization/Dashboards](https://public.tableau.com/app/profile/harish.muhammad/vizzes)  
 
 - 🧬 **[Indonesia's COVID-19 Cases - Updated to September 2022 (Looker studio)](https://lookerstudio.google.com/reporting/41a948e6-0148-4a89-b1b6-b14dab5ab68a)**
 - 🏘️ **[Airbnb - Listing Analtics, Bangkok (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes)**
