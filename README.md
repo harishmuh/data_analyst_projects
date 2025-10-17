@@ -1,4 +1,4 @@
-# 📈 Data Analyst Projects  
+# 📈 Data Analytics Projects  
 
 This repository displays my journey in analyzing diverse datasets from multidisciplinary fields, including marketing, customer analytics, and public health. Through these projects, I aim to generate actionable insights and recommendations to support data-driven decision-making in various industries.  
 
@@ -32,7 +32,7 @@ This repository displays my journey in analyzing diverse datasets from multidisc
 
 ---
 
-## 📊 [Data Visualization/Dashboards](https://public.tableau.com/app/profile/harish.muhammad/vizzes)  
+## 📊 Data Visualization [![Tableau Dashboards](https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat&logo=Tableau)](https://public.tableau.com/app/profile/harish.muhammad/vizzes) 
 
 - 🧬 **[Indonesia's COVID-19 Cases - Updated to September 2022 (Looker studio)](https://lookerstudio.google.com/reporting/41a948e6-0148-4a89-b1b6-b14dab5ab68a)**
 - 🏘️ **[Airbnb - Listing Analtics, Bangkok (Tableau)](https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes)**
